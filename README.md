@@ -5,3 +5,7 @@ Talia Fabregas
 University of Toronto, Department of Statistical Sciences 
 
 Supervised by Professor Rohan Alexander 
+
+## Project Overview
+
+

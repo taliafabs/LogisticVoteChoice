@@ -3,5 +3,5 @@
 Edited version of my midterm paper that focused solely on the 2024 Cooperative Election Study (CES) dataset
 
 ## Links
-- Readings course repo: https://github.com/taliafabs/STA496/tree/main/MidtermPaper
+- Original STA496 repo: https://github.com/taliafabs/STA496/tree/main/MidtermPaper
 - Colab: https://colab.research.google.com/drive/1Nv13U3kmJRq9LVnxUBEQtNX9y1gTxjlX?usp=sharing

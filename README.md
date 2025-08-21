@@ -1,10 +1,8 @@
-# Logistic Regression Analysis of Individual-Level Vote Choice
+# Analysis of Individual Vote Choice in Recent U.S. Presidential Elections
 
 Talia Fabregas 
 
 University of Toronto, Department of Statistical Sciences 
-
-Supervised by Professor Rohan Alexander 
 
 ## Project Overview
 

@@ -4,6 +4,8 @@ Talia Fabregas
 
 University of Toronto, Department of Statistical Sciences 
 
+Summer 2025
+
 ## Project Overview
 
 

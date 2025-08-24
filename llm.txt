@@ -38,3 +38,13 @@ Dataverse
 If you need assistance with citing specific modules or variables within the dataset, feel free to ask!
 
 ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
+You said:
+re-word As an extension, the model was re-trained and tested on the 2016 CCES dataset using analogous predictors, but omitting the urban-rural divide because that information was not included
+ChatGPT said:
+
+Here’s a polished rewording of your sentence:
+
+"As a further step, the model was retrained and evaluated on the 2016 CCES dataset using similar predictors, excluding the urban-rural distinction since that variable was not available."
+
+If you want, I can also suggest an even more concise, academic-style version suitable for a paper. Do you want me to do that?

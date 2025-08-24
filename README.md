@@ -13,6 +13,6 @@ This repository contains the code and data associated with my paper titled "Logi
 
 ## Links
 * Presentation slides: https://drive.google.com/file/d/16PgaKSNSkSFVpjWbx3uTo8kvK9p-QBTG/view?usp=sharing
-* Presentation video: 
+* Presentation recording: 
 
 

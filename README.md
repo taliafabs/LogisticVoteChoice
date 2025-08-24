@@ -6,12 +6,17 @@ University of Toronto, Department of Statistical Sciences
 
 Summer 2025
 
-## Project Overview
+## Overview
+This repository contains the code and data associated with my paper titled "Logistic Regression Analysis of Individual-Level Vote Choice in Recent U.S. Presidential Elections."
+
+## Objective
 
 ## Data
 
-## Presentation Links
+## Contents
+
+## Links
 * Presentation slides:
-* Presentation video
+* Presentation video: 
 
 

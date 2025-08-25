@@ -27,8 +27,7 @@ This project was inspired by the works of Kuriwaki et al., Algara et al., and Ca
 * https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/predicting-popularvote-shares-in-us-presidential-elections-a-modelbased-strategy-relying-on-anes-data/CC6B59BAC456CAC43C96F27FBAAF2290#article
 
 ## Links 🔗
-* Presentation slides: https://drive.google.com/file/d/16PgaKSNSkSFVpjWbx3uTo8kvK9p-QBTG/view?usp=sharing
-* Presentation recording: https://drive.google.com/file/d/1MvFsuTPp22uJ7Li90uTQEXgxzQWUUVL6/view?usp=sharing
+* Presentation slides & recording: https://drive.google.com/drive/folders/1VFNPoo6XnAwC5p5do4hhO6ec_6R7jj57?usp=sharing
   
 ## LLM Usage 🤖
 Chat GPT 3.5 and 5.0 were used for latex formatting, IEEE citations, code debugging, and grammar checks. 

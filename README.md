@@ -5,7 +5,7 @@ Talia Fabregas | University of Toronto, Department of Statistical Sciences | Sum
 ## Overview 👩‍🏫
 This repository contains the code and data associated with my paper titled "Logistic Regression Analysis of Individual-Level Vote Choice in Recent U.S. Presidential Elections." 
 
-## Abstract📌
+## Abstract 📌
 This project examines individual-level vote choice recent American presidential elections, employing frequentist, machine learning, and Bayesian logistic regression methods. Model selection via likelihood ratio testing indicates that interactions between race and key demographic factors (gender, education, region, and the urban-rural divide), along with approval of then-incumbent President Joe Biden and perceptions of economic conditions significantly improve logistic model fit on the 2024 Cooperative Election Study (CES) dataset. An L2-regularized logistic regression model trained and optimized via minibatch gradient descent on the 2024 CES dataset achieved 92.8\% accuracy on unseen test data. To further assess generalizability, the same model was re-trained on the 2020 Cooperative Election Study (CES) and 2016 Cooperative Congressional Election Study (CCES) datasets using analogous predictors and the same hyperparameters, and achieved 96.52\%  and 93.53\% accuracy, respectively, on unseen test data. Findings suggest that the interaction effects of race with demographic and geographic factors, as well as economy-related perceptions and approval of the incumbent president, significantly influenced vote choice in recent U.S. presidential elections and that a voter-level logistic modeling approach that incorporates micro- and macro-level predictors is a step towards an aggregate election forecast.
 
 ## Data 📊

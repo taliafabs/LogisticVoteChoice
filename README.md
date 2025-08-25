@@ -33,5 +33,7 @@ This project was inspired by the works of Kuriwaki et al., Algara et al., and Ca
 ## LLM Usage 🤖
 Chat GPT 3.5 and 5.0 were used for latex formatting, IEEE citations, code debugging, and grammar checks. 
 
-## Credit 
-I want to thank Susan Hopkirk at the University of Toronto New College Writing Center for her assistance with my written work in this project.
+## Acknowledgements 
+I want to thank the following individuals:
+* My supervisor, Professor Rohan Alexander at the University of Toronto, Department of Statistical Sciences
+* Susan Hopkirk at the University of Toronto New College Writing Center for her assistance with my written work in this project.
